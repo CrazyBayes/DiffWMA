@@ -7,8 +7,6 @@ See ``requirments.txt`` file for more information about how to install the depen
 The environments used in our paper are based on the [SMAC](https://github.com/oxwhirl/smac), [SMACv2](https://github.com/oxwhirl/smacv2), and [Google Research Football](https://link.zhihu.com/?target=https%3A//github.com/google-research/football). Please refer to them to know how to install.
 # Usages
 
-
-#### Predator-prey
 ```python
 python3 main.py --config=DiffWMA --env-config=sc2 with env_args.map_name=corridor
 ```
